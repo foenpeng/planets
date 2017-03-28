@@ -5,8 +5,6 @@ hello world
 This is for the second commit requested by Dave
 
 commit by Johanna 
-<<<<<<< HEAD
-
 Create conflict by foen
 =======
 potential conflicting change by Johanna
